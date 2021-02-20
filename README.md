@@ -43,27 +43,27 @@
 [<img alt="Testing-Library" src="https://img.shields.io/badge/-Testing%20Library-%23E33332?&style=for-the-badge&logo=testing-library&logoColor=white"/>]()
 [<img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>]()
 
-##
+
 
 ## DB
 
 [<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>]()
 
 
-##
+
 
 ## UI/UX
 
 [<img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>]()
 
-##
+
 
 ## Tools
 [<img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>]()
 [<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>]()
 [<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>]()
 
-##
+
 
 ## I wanted to thank as soon as possible to all 😊❤
 
