@@ -10,8 +10,11 @@
 
 ##
 
-  <a align="center" href="https://www.linkedin.com/in/riyazur-razak-863ba0190/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
-    <a align="center" href="https://www.instagram.com/itz_me_r.i.y.a.z_/"><img height="30" src="https://static.wixstatic.com/media/33091b_1a81d2bc9b674bb9856e648b2917a76f~mv2.gif"></a>
+  <a align="center" href="https://www.linkedin.com/in/riyazur-razak-863ba0190/"><img height="50" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
+    <a align="center" href="https://www.instagram.com/itz_me_r.i.y.a.z_/"><img height="50" src="https://static.wixstatic.com/media/33091b_1a81d2bc9b674bb9856e648b2917a76f~mv2.gif"></a>
+      <a align="center" href="https://dribbble.com/riyazur_razak"><img height="50" src="https://cdn.dribbble.com/users/1041961/screenshots/2485936/alchemy-dribbble-icon2.gif"></a>
+    
+    
     
 ##
 
