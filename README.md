@@ -62,6 +62,7 @@
 
 
 ## Tools
+[<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>]()
 [<img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>]()
 [<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>]()
 [<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>]()
@@ -83,6 +84,7 @@
 
   [<img align="left" alt="Riyazur Razak Status" src="https://github-readme-stats.vercel.app/api?username=RiyazurRazak&theme=dark" />]()
   
-  [<img align="left" alt="Riyazur Razak Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyazurRazak&hide=html,css&theme=dark" />]()
+ 
+ 
 
 
