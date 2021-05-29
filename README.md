@@ -5,7 +5,7 @@
 ##
 
 - 🔭 I’m currently student
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning django
 - ⚡ Fun fact: Fixing Bugs Is An Art 😉
 
 ##
