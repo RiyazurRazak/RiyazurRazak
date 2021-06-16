@@ -5,7 +5,7 @@
 ##
 
 - 🔭 I’m currently student
-- 🌱 I’m currently learning django
+- 🌱 I’m currently learning PostgreSQL
 - ⚡ Fun fact: Fixing Bugs Is An Art 😉
 
 ##
