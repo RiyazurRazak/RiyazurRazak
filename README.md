@@ -41,6 +41,7 @@
 [<img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>]()
 [<img alt="gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />]()
 [<img alt="Redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>]()
+[<img alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08" />]()
 [<img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>]()
 [<img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />]()
 [<img alt="Webpack" src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />]()
@@ -87,8 +88,8 @@
 
 ##
 
-  [<img align="left" alt="Riyazur Razak Status" src="https://github-readme-stats.vercel.app/api?username=RiyazurRazak" />]()
-  [<img align="left" alt="Riyazur Razak Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyazurRazak&hide=html,css" />]()
+  [<img align="left" alt="Riyazur Razak Status" src="https://github-readme-stats.vercel.app/api?username=RiyazurRazak&theme=dark" />]()
+  [<img align="left" alt="Riyazur Razak Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyazurRazak&hide=html,css&theme=dark" />]()
   
  
  
