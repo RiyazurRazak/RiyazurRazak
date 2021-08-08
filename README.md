@@ -1,18 +1,17 @@
 <div align="center">
-  <h1>Hello World, I'm Riyazur Razak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+  <h1>Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Riyazur Razak</h1>
 </div>
 
 ##
 
-- 🔭 I’m currently student
-- 🌱 I’m currently learning PostgreSQL
-- ⚡ Fun fact: Fixing Bugs Is An Art 😉
+<h2>Trust Your Crazy Ideas</h2>
 
 ##
 
-  <a align="center" href="https://www.linkedin.com/in/riyazur-razak-863ba0190/"><img height="50" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
-    <a align="center" href="https://www.instagram.com/itz_me_r.i.y.a.z_/"><img height="50" src="https://static.wixstatic.com/media/33091b_1a81d2bc9b674bb9856e648b2917a76f~mv2.gif"></a>
-      <a align="center" href="https://dribbble.com/riyazur_razak"><img height="50" src="https://cdn.dribbble.com/users/1041961/screenshots/2485936/alchemy-dribbble-icon2.gif"></a>
+  <a align="center" href="https://www.linkedin.com/in/riyazur-razak-863ba0190/"><img height="80"  src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif"></a>
+    <a align="center" href="https://www.instagram.com/itz_me_r.i.y.a.z_/"><img height="80" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_400px.gif"></a>
+      <a align="center" href="https://dribbble.com/riyazur_razak"><img height="80" src="https://cdn.dribbble.com/users/1041961/screenshots/2485936/alchemy-dribbble-icon2.gif"></a>
+      <a href="mailto:riyazurrazaknoushath786@gmail.com"><img src="https://cliply.co/wp-content/uploads/2020/04/422004530_MAIL_BOX_3D_ICON_400px.gif" height="80"></a>
     
     
     
@@ -89,7 +88,7 @@
 ##
 
   [<img align="left" alt="Riyazur Razak Status" src="https://github-readme-stats.vercel.app/api?username=RiyazurRazak&theme=dark" />]()
-  [<img align="left" alt="Riyazur Razak Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyazurRazak&hide=html,css&theme=dark" />]()
+  [<img align="left" alt="Riyazur Razak Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyazurRazak&hide=html,css&theme=dark&layout=compact&langs_count=6" />]()
   
  
  
