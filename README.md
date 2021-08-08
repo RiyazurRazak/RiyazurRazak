@@ -1,5 +1,5 @@
-<div align="center">
-  <h1>Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Riyazur Razak</h1>
+<div>
+  <h1>Riyazur Razak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </div>
 
 ##
@@ -7,6 +7,7 @@
 <h2>Trust Your Crazy Ideas</h2>
 
 ##
+## Networks
 
   <a align="center" href="https://www.linkedin.com/in/riyazur-razak-863ba0190/"><img height="80"  src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif"></a>
     <a align="center" href="https://www.instagram.com/itz_me_r.i.y.a.z_/"><img height="80" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_400px.gif"></a>
