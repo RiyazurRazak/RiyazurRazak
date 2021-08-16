@@ -10,7 +10,7 @@
 ## Networks
 
   <a align="center" href="https://www.linkedin.com/in/riyazur-razak-863ba0190/"><img height="80"  src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif"></a>
-    <a align="center" href="https://www.instagram.com/itz_me_r.i.y.a.z_/"><img height="80" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_400px.gif"></a>
+    <a align="center" href="https://www.instagram.com/riyazur_razak/"><img height="80" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_400px.gif"></a>
       <a align="center" href="https://dribbble.com/riyazur_razak"><img height="80" src="https://cdn.dribbble.com/users/1041961/screenshots/2485936/alchemy-dribbble-icon2.gif"></a>
       <a href="mailto:riyazurrazaknoushath786@gmail.com"><img src="https://cliply.co/wp-content/uploads/2020/04/422004530_MAIL_BOX_3D_ICON_400px.gif" height="80"></a>
     
