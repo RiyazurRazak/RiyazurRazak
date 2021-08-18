@@ -1,25 +1,21 @@
-<div>
-  <h1>Riyazur Razak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-</div>
-
-##
+<h1>Riyazur Razak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <h2>Trust Your Crazy Ideas</h2>
 
-##
 ## Networks
 
-  <a align="center" href="https://www.linkedin.com/in/riyazur-razak-863ba0190/"><img height="80"  src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif"></a>
-    <a align="center" href="https://www.instagram.com/riyazur_razak/"><img height="80" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_400px.gif"></a>
-      <a align="center" href="https://dribbble.com/riyazur_razak"><img height="80" src="https://cdn.dribbble.com/users/1041961/screenshots/2485936/alchemy-dribbble-icon2.gif"></a>
-      <a href="mailto:riyazurrazaknoushath786@gmail.com"><img src="https://cliply.co/wp-content/uploads/2020/04/422004530_MAIL_BOX_3D_ICON_400px.gif" height="80"></a>
-    
-    
-    
+<a align="center" href="https://www.linkedin.com/in/riyazur-razak-863ba0190/"><img height="80"  src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_400px.gif"></a>
+<a align="center" href="https://www.instagram.com/riyazur_razak/"><img height="80" src="https://cliply.co/wp-content/uploads/2019/07/371907300_INSTAGRAM_ICON_400px.gif"></a>
+<a align="center" href="https://dribbble.com/riyazur_razak"><img height="80" src="https://cdn.dribbble.com/users/1041961/screenshots/2485936/alchemy-dribbble-icon2.gif"></a>
+<a href="mailto:riyazurrazaknoushath786@gmail.com"><img src="https://cliply.co/wp-content/uploads/2020/04/422004530_MAIL_BOX_3D_ICON_400px.gif" height="80"></a>
+       
 ##
 
+## Badges
+ [<img src="https://www.codewars.com/users/RiyazurRazak/badges/large" />](https://www.codewars.com/users/RiyazurRazak)
 
- ## Languages..
+
+ ## Languages
  
 
  [<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>]()
@@ -32,7 +28,7 @@
 [<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>]()
 [<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>]()
 
-## FrameWorks / Libraries..
+## Frameworks / Libraries
 
 [<img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>]()
 [<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>]()
@@ -90,9 +86,9 @@
 
 
 ##
-
-  [<img align="left" alt="Riyazur Razak Status" src="https://github-readme-stats.vercel.app/api?username=RiyazurRazak&theme=dark" />]()
   [<img align="left" alt="Riyazur Razak Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyazurRazak&hide=html,css&theme=dark&layout=compact&langs_count=6" />]()
+  [<img align="left" alt="Riyazur Razak Status" src="https://github-readme-stats.vercel.app/api?username=RiyazurRazak&theme=dark" />]()
+
   
  
  
