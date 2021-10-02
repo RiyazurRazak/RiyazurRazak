@@ -70,7 +70,7 @@
  [![](https://github-readme-streak-stats.herokuapp.com/?user=RiyazurRazak&theme=blue-green)]()
  <br />
  <br />
- [<img align="left" alt="Riyazur Razak Status" src="https://github-readme-stats.vercel.app/api?username=RiyazurRazak&theme=da" />]()
+ [<img align="left" alt="Riyazur Razak Status" src="https://github-readme-stats.vercel.app/api?username=RiyazurRazak&theme=dark" />]()
 
 
   
