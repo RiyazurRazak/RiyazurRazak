@@ -1,5 +1,5 @@
 <h1>Riyazur Razak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <br /> 
-       <h4>Full Stack Developer</h4></h1>
+       <h4>Full Stack Developer 👨‍💻</h4></h1>
        
       
 
@@ -70,7 +70,7 @@
  [![](https://github-readme-streak-stats.herokuapp.com/?user=RiyazurRazak&theme=blue-green)]()
  <br />
  <br />
- [<img align="left" alt="Riyazur Razak Status" src="https://github-readme-stats.vercel.app/api?username=RiyazurRazak&theme=dark" />]()
+ [<img align="left" alt="Riyazur Razak Status" src="https://github-readme-stats.vercel.app/api?username=RiyazurRazak&theme=da" />]()
 
 
   
