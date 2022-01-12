@@ -3,7 +3,7 @@
        
       
 
-   [<img align="left" alt="Riyazur Razak Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyazurRazak&hide=html,css&theme=dark&layout=compact&langs_count=6" />]()
+   [<img align="left" alt="Riyazur Razak Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyazurRazak&hide=html,css&theme=dark&layout=compact&langs_count=8" />]()
   <br />
   <br />
   <br />
