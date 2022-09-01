@@ -1,7 +1,7 @@
 <h1>Riyazur Razak <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></img></h1>
 
 ``` sql
-SELECT DISTINCT Languages, Stats, Contribution FROM RiyazurRazak WHERE Site=Github;
+SELECT DISTINCT Languages, Stats, Contribution, Social FROM RiyazurRazak WHERE Site=Github;
 ```
 
 <div align="center">
@@ -17,8 +17,13 @@ SELECT DISTINCT Languages, Stats, Contribution FROM RiyazurRazak WHERE Site=Gith
 
 #### &nbsp;
 
-<code>https://riyazurrazak.com/contact</code>
-
+``` json
+{
+  "contact": "https://riyazurrazak.com/contact",
+  "medium": "https://riyazurrazak.medium.com",
+  "linkedin": "https://www.linkedin.com/in/riyazur-razak"
+}
+```
 
   
  
