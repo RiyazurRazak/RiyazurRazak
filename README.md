@@ -8,8 +8,8 @@ SELECT DISTINCT Languages, Stats, Contribution FROM RiyazurRazak WHERE Site=Gith
 
 ### &nbsp;
 
-<div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyazurrazak&show_icons=true&locale=en&layout=compact&&hide=html,css&langs_count=8&theme=react" alt="riyazurrazak" /></p>
+<div align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyazurrazak&show_icons=true&locale=en&layout=compact&hide=html,css&langs_count=8&theme=react&width=80" alt="riyazurrazak" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyazurrazak&show_icons=true&locale=en&theme=react" alt="riyazurrazak" /></p>
 </div>
 
