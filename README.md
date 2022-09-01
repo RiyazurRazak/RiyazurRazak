@@ -15,7 +15,9 @@ SELECT DISTINCT Languages, Stats, Contribution FROM RiyazurRazak WHERE Site=Gith
 [![Riyaz status](https://activity-graph.herokuapp.com/graph?username=RiyazurRazak&custom_title=Riyazur%20Razak%27s%20Contribution%20Graph&theme=react-dark&hide_border=true&area=true)](https://riyazurrazak.com)
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyazurrazak&theme=react" alt="riyazurrazak" /></p>
 
- 
+#### &nbsp;
+
+<code>https://riyazurrazak.com/contact</code>
 
 
   
