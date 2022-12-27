@@ -12,7 +12,7 @@ SELECT DISTINCT Languages, Stats, Contribution, Social FROM RiyazurRazak WHERE S
 
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=riyazurrazak&theme=discord&no-bg=true&no-frame=true&margin-h=10" alt="riyazurrazak" /> </p>
 
-[![Riyaz status](https://activity-graph.herokuapp.com/graph?username=RiyazurRazak&custom_title=Riyazur%20Razak%27s%20Contribution%20Graph&theme=react-dark&hide_border=true&area=true)](https://riyazurrazak.com)
+[![Riyaz status](https://github-readme-activity-graph.cyclic.app/graph?username=RiyazurRazak&custom_title=Riyazur%20Razak%27s%20Contribution%20Graph&theme=react-dark&hide_border=true&area=true)](https://riyazurrazak.com)
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyazurrazak&theme=react" alt="riyazurrazak" /></p>
 
 #### &nbsp;
