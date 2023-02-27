@@ -19,7 +19,6 @@ SELECT DISTINCT Languages, Stats, Contribution, Social FROM RiyazurRazak WHERE S
 
 ``` json
 {
-  "contact": "https://riyazurrazak.com/contact",
   "medium": "https://riyazurrazak.medium.com",
   "linkedin": "https://www.linkedin.com/in/riyazur-razak"
 }
